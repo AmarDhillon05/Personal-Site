@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@vercel/edge-config": "^1.2.1",
+    "@vercel/kv": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "heroku": "^9.2.0",
+    "mongodb": "^6.8.0",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
